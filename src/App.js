@@ -13,7 +13,7 @@ function App() {
           <p>Ipad</p>
           <p>Phone</p>
         </div>
-        <div>
+        <div className='right'>
           <h6>git</h6>
           <button>Free Download</button>
         </div>

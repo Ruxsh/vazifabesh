@@ -2,10 +2,21 @@
   text-align: center;
 }
 
-.headerbir{
+.headerbir {
   background-color: azure;
   display: flex;
+  justify-content: space-between;
+  align-items: center;
+  
 }
-.box{
+
+.box {
   display: flex;
+  gap: 10px;
+}
+
+.right{
+  display: flex;
+  justify-content: space-evenly;
+  gap: 30px;
 }
