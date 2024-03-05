@@ -25,6 +25,7 @@ button {
   background-color: pink;
   color: red;
   padding: 10px 20px;
+  margin: 10px 20px;
 }
 
 main {
@@ -34,4 +35,11 @@ main {
   justify-content: space-between;
 }
 
-aside {}
+aside {
+  background-color: beige;
+  width: 500px;
+}
+
+h1{
+  
+}
