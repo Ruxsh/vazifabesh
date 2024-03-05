@@ -1,4 +1,5 @@
 import logo from './logo.svg';
+import monitor from './monitor.jpg'
 import './App.css';
 
 function App() {
@@ -6,6 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>good lock</h1>
+        <img src={monitor} />
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
