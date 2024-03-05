@@ -7,7 +7,7 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  
+
 }
 
 .box {
@@ -15,8 +15,23 @@
   gap: 10px;
 }
 
-.right{
+.right {
   display: flex;
   justify-content: space-evenly;
   gap: 30px;
 }
+
+button {
+  background-color: pink;
+  color: red;
+  padding: 10px 20px;
+}
+
+main {
+  background-color: rgba(0, 0, 0, 0.733);
+  color: white;
+  display: flex;
+  justify-content: space-between;
+}
+
+aside {}

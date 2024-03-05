@@ -22,7 +22,7 @@ function App() {
         <div>
           <h4>Start Bootstrap</h4>
         </div>
-        <div>
+        <div className='right'>
           <span>Home</span>
           <span>About</span>
           <span>Contact</span>
