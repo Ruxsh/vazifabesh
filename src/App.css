@@ -33,12 +33,18 @@ main {
   color: white;
   display: flex;
   justify-content: space-between;
+}
+.rights {
+  display: flex;
+  justify-content: space-evenly;
+  gap: 30px;
   align-items: center;
 }
 
 aside {
   background-color: beige;
-  width: 500px;
+  height: 500px;
+  
 }
 
 h1{
