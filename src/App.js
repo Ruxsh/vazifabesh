@@ -33,7 +33,7 @@ function App() {
       <aside>
         <div>
           <h1>Welcome to Blog Home!</h1>
-          <p>A Bootstrap 5 starter for your next blog homepage</p>
+          <a>A Bootstrap 5 starter for your next blog homepage</a>
         </div>
       </aside>
     </div>
